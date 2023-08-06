@@ -1,7 +1,9 @@
 
 ## Fuel Reports
 
+
 ![Imagem](https://i.imgur.com/rLlABQU.png)
+
 
 
 ## Índice 
@@ -18,18 +20,26 @@
 
 ## Descrição do Projeto
 
-## <font color = red> Análise Exploratória :  ✍
+#### <font color = bluelight> Sobre a Empresa
 
-## <font color = red>* Objetivos::
----
-O projeto visa a realização de uma análise exploratória de dados  ????:
+Esse projeto foi solicitado pela Agência Nacional de Petróleo e Gás
+Natural e Biocombustíveis (ANP) e visa a realização de uma análise exploratória
+relacionada à série histórica de preço de venda da gasolina e do etanol.
 
+![Imgur](https://i.imgur.com/vpCTyKv.jpg)
 
-*   Análise descritiva das características dos dados, registros, tipos de dados
-    e valores;
-*   Limpar e tratar os dados;
-
-*   Utilizar e visualizar gráficos com o objetivo de obter alguns insights.
+A ANP é um centro de referência em dados e informações sobre a indústria de
+petróleo e gás natural no Brasil, que mantém o Banco de Dados de Exploração e
+Produção (BDEP); divulga as estatísticas oficiais sobre reservas, refino e produção
+de petróleo, gás e biocombustíveis no Brasil; realiza e divulga pesquisas sobre
+qualidade dos combustíveis e lubrificantes e sobre o comportamento dos preços
+desses produtos; promove estudos sobre o potencial petrolífero e o
+desenvolvimento do setor; entre outras atividades.
+- Natureza:	Agência Reguladora, Autarquia
+- Jurídica: Especial, Administrativamente Independente, Financeiramente Autônoma
+- Atribuições:	Regulação do Petróleo, Gás Natural e Biocombustíveis
+- Dependência:	Governo do Brasil
+- Chefia:	Décio Oddone, diretor-geral
     
 ## Instruções de uso
 
