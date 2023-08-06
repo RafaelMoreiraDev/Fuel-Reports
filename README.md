@@ -1,7 +1,9 @@
 
 ## Fuel Reports
 
-![Imgur](https://i.imgur.com/5l1okBv.png)
+
+![Imagem](https://i.imgur.com/rLlABQU.png)
+
 
 
 ## Índice 
@@ -42,7 +44,7 @@ desenvolvimento do setor; entre outras atividades.
 ## Instruções de uso
 
 Clonar o diretório:
-* abtir o COLAB;
+* abrir o COLAB;
 * abrir o arquivo .ipynb
 
 ## Funcionalidades
@@ -60,11 +62,11 @@ Algumas perguntas para direcionar a análise:
     
 ## Tecnologias Utilizadas
 
-![Static Badge](https://img.shields.io/badge/%20-Pandas-%23150458?style=plano&logo=Pandas&cacheSeconds=%203600)
-![Static Badge](https://img.shields.io/badge/%20-Google_Colab-black?style=plano&logo=Google%20Colab&logoColor=%23F9AB00&cacheSeconds=%203600)
-![Static Badge](https://img.shields.io/badge/%20-Python-black?style=plano&logo=Python&logoColor=%233776AB&cacheSeconds=%203600)
-![Static Badge](https://img.shields.io/badge/%20-Numpy-%23013243?style=plano&logo=Numpy&cacheSeconds=%203600)
-![Static Badge](https://img.shields.io/badge/%20-Matplotlib-blue?style=plano&logo=Matplotlib&logoColor=%233776AB&cacheSeconds=%203600)
+* ![Static Badge](https://img.shields.io/badge/%20-Pandas-%23150458?style=plano&logo=Pandas&cacheSeconds=%203600)
+* ![Static Badge](https://img.shields.io/badge/%20-Google_Colab-black?style=plano&logo=Google%20Colab&logoColor=%23F9AB00&cacheSeconds=%203600)
+* ![Static Badge](https://img.shields.io/badge/%20-Python-black?style=plano&logo=Python&logoColor=%233776AB&cacheSeconds=%203600)
+* ![Static Badge](https://img.shields.io/badge/%20-Numpy-%23013243?style=plano&logo=Numpy&cacheSeconds=%203600)
+* ![Static Badge](https://img.shields.io/badge/%20-Matplotlib-blue?style=plano&logo=Matplotlib&logoColor=%233776AB&cacheSeconds=%203600)
 
 ## Pessoas Desenvolvedoras do Projeto
 Esse projeto foi desenvolvido:
