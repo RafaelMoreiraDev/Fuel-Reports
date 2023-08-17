@@ -103,7 +103,7 @@ Esse projeto foi desenvolvido por:
 
 | Nome       | LinkedIn |
 |------------|----------|
-| Danilo     | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/adm-danylo-miranda/](https://www.linkedin.com/in/adm-danylo-miranda/))](https://www.linkedin.com/in/adm-danylo-miranda/) |
+| Danylo     | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/adm-danylo-miranda/](https://www.linkedin.com/in/adm-danylo-miranda/))](https://www.linkedin.com/in/adm-danylo-miranda/) |
 | Rafael     | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-antonio-759a04241/)](https://www.linkedin.com/in/rafael-antonio-759a04241/) |
 | Alice      | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alicecalagecampos/)](https://www.linkedin.com/in/alicecalagecampos/) |
 | Lucas      | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucstx/)](https://www.linkedin.com/in/lucstx/) |
